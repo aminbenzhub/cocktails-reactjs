@@ -2,5 +2,5 @@
 
 ### live preview 
 
-https://our-cocktails.reactjs.netlify.app
+https://our-cocktails-reactjs.netlify.app
 
